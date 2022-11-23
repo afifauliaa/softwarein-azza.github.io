@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#services {
+  background-color: #e2edff;
+}
+footer {
+  background-color: #e2edff;
+  color: #000;
+  /* width: 100vw; */
+}
+
+section {
+  padding-top: 7rem;
+}
